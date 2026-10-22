@@ -1,0 +1,14 @@
+C:\Rainer\basic\AveragesApp\bin\Debug\net10.0\AveragesApp.exe
+C:\Rainer\basic\AveragesApp\bin\Debug\net10.0\AveragesApp.deps.json
+C:\Rainer\basic\AveragesApp\bin\Debug\net10.0\AveragesApp.runtimeconfig.json
+C:\Rainer\basic\AveragesApp\bin\Debug\net10.0\AveragesApp.dll
+C:\Rainer\basic\AveragesApp\bin\Debug\net10.0\AveragesApp.pdb
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.AssemblyInfoInputs.cache
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.AssemblyInfo.vb
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.vbproj.CoreCompileInputs.cache
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.dll
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\refint\AveragesApp.dll
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.pdb
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\AveragesApp.genruntimeconfig.cache
+C:\Rainer\basic\AveragesApp\obj\Debug\net10.0\ref\AveragesApp.dll

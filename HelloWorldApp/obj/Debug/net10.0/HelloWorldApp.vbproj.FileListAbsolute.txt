@@ -1,0 +1,14 @@
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfo.vb
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.vbproj.CoreCompileInputs.cache
+C:\Rainer\basic\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.exe
+C:\Rainer\basic\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.deps.json
+C:\Rainer\basic\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.runtimeconfig.json
+C:\Rainer\basic\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.dll
+C:\Rainer\basic\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.pdb
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.dll
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\refint\HelloWorldApp.dll
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.pdb
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.genruntimeconfig.cache
+C:\Rainer\basic\HelloWorldApp\obj\Debug\net10.0\ref\HelloWorldApp.dll

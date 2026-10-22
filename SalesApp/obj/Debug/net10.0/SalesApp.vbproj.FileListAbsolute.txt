@@ -1,0 +1,14 @@
+C:\Rainer\basic\SalesApp\bin\Debug\net10.0\SalesApp.exe
+C:\Rainer\basic\SalesApp\bin\Debug\net10.0\SalesApp.deps.json
+C:\Rainer\basic\SalesApp\bin\Debug\net10.0\SalesApp.runtimeconfig.json
+C:\Rainer\basic\SalesApp\bin\Debug\net10.0\SalesApp.dll
+C:\Rainer\basic\SalesApp\bin\Debug\net10.0\SalesApp.pdb
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.AssemblyInfoInputs.cache
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.AssemblyInfo.vb
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.vbproj.CoreCompileInputs.cache
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.dll
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\refint\SalesApp.dll
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.pdb
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\SalesApp.genruntimeconfig.cache
+C:\Rainer\basic\SalesApp\obj\Debug\net10.0\ref\SalesApp.dll
