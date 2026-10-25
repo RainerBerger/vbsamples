@@ -1,0 +1,10 @@
+13100123  70 75 Tanaka1, Total score = 145
+13100756  64 97 Tanaka2, Total score = 161
+13100854  98 74 Tanaka3, Total score = 172
+13100456  69 78 Tanaka4, Total score = 147
+13100435  100 69 Tanaka5, Total score = 169
+14100765  86 45 Tanaka6, Total score = 131
+14100001  60 48 Tanaka7, Total score = 108
+13100002  38 21 Tanaka8, Total score = 59
+Number of students: 8 
+Average of total: 136.5, Minimum = 59, Maximum = 172

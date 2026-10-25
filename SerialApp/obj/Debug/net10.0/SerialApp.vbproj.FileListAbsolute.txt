@@ -1,0 +1,15 @@
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.AssemblyInfoInputs.cache
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.AssemblyInfo.vb
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.vbproj.CoreCompileInputs.cache
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.sourcelink.json
+C:\Rainer\vbsamples\SerialApp\bin\Debug\net10.0\SerialApp.exe
+C:\Rainer\vbsamples\SerialApp\bin\Debug\net10.0\SerialApp.deps.json
+C:\Rainer\vbsamples\SerialApp\bin\Debug\net10.0\SerialApp.runtimeconfig.json
+C:\Rainer\vbsamples\SerialApp\bin\Debug\net10.0\SerialApp.dll
+C:\Rainer\vbsamples\SerialApp\bin\Debug\net10.0\SerialApp.pdb
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.dll
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\refint\SerialApp.dll
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.pdb
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\SerialApp.genruntimeconfig.cache
+C:\Rainer\vbsamples\SerialApp\obj\Debug\net10.0\ref\SerialApp.dll
